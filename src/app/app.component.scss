@@ -1,0 +1,25 @@
+img {
+    width: 12.5%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+    display: block;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto;
+    max-width: 1000px;
+}
+
+.error {
+    display: inline-block;
+    color: red;
+    margin: 0 2em;
+}
